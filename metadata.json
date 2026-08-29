@@ -1,0 +1,6 @@
+{
+  "name": "Sani & Arafat – Forever Friends",
+  "description": "A beautiful digital friendship diary and bond tracker for best friends Sani and Arafat with live counters, memories, birthday countdown, fun games, quotes, and secret messages in natural Banglish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
